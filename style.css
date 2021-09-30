@@ -1,0 +1,45 @@
+body
+{
+font-family: 'Ubuntu', sans-serif;
+background-color: beige;
+}
+
+
+.header_div
+{
+    background: gray;
+    color:white;
+}
+
+p
+{
+    font-family: 'Mulish', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1;
+}
+
+.main_div button
+{
+    font-family:'Mulish', sans-serif;
+    font-size: 24px;
+    height: 50px;
+    width: 80px;
+}
+
+.Footer
+{
+    background-color:gray;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 16px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(200, 200, 200);
+}
+
+
+
+
+
